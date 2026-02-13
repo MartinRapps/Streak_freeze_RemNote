@@ -1,22 +1,21 @@
 {
+  "author": "MartinRapps",
+  "name": "StreakFreeze",
+  "description": "Allows you to use streak freezes",
+  "enableOnMobile": true,
+  "id": "MartinRapps-s5ns40a",
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
   "version": {
     "major": 0,
     "minor": 0,
     "patch": 1
   },
-  "theme": [],
-  "enableOnMobile": false,
-  "description": "",
   "requestNative": false,
   "requiredScopes": [
     {
       "type": "All",
       "level": "Read"
     }
-  ]
+  ],
+  "repoUrl": "https://github.com/MartinRapps/Streak_freeze_RemNote"
 }
